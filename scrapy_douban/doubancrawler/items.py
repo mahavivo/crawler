@@ -30,6 +30,5 @@ class DoubanBookItem(scrapy.Item):
     # 评价人数
     comment_num = scrapy.Field()
 
-    # # 封面图片
+    # 封面图片
     # cover = scrapy.Field()
-
